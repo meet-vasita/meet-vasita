@@ -85,7 +85,7 @@ me.say_hi()
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=meet-vasita&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
 </div>
 
-## 🐍 Contribution Snake
+## Contributions 
 
 <div align="center">
 
