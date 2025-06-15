@@ -38,7 +38,6 @@ me.say_hi()
 - 🔭 I'm currently diving deep into **Machine Learning**
 - 💬 Ask me about **Python, Data Science, and ML algorithms**
 - 📫 Reach out to me: **meetvasita85@gmail.com**
-- ⚡ Fun fact: I love turning data into meaningful insights!
 
 ## 🛠️ Languages and Tools
 
