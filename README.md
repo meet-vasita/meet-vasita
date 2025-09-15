@@ -109,19 +109,11 @@ class Developer:
 
 </div>
 
-## 💡 What Drives Me
-
-> *"I believe in the power of data to tell stories and drive decisions. Every dataset has a story waiting to be discovered, and every problem has a solution waiting to be coded."*
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
 
-**Open to collaborations • Always learning • Ready to solve complex problems**
-
-*Drop me a line if you want to discuss data science, share ideas, or collaborate on interesting projects!*
+**Open to collaborations • Always learning**
 
 📧 **meetvasita85@gmail.com**
 
