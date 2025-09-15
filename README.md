@@ -1,90 +1,54 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20👋,%20I'm%20Meet&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
-</div>
+# Meet Vasita
+
+**Python Developer | Data Scientist | Machine Learning Engineer**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/meet-vasita-9260aa327)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:meetvasita85@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=meet-vasita&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/meet-vasita)
+
+---
+
+## About
+
+I'm a passionate Python developer and data scientist with a strong foundation in machine learning and data analysis. I enjoy building data-driven solutions and exploring the intersection of technology and analytics to solve real-world problems.
+
+Currently focusing on advancing my expertise in machine learning algorithms and their practical applications in various domains.
+
+## Technical Skills
+
+**Programming Languages**
+- Python, Java, C/C++, JavaScript, SQL
+
+**Data Science & Analytics**
+- Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib
+- Statistical Analysis, Machine Learning, Data Visualization
+
+**Databases**
+- MySQL, PostgreSQL, MongoDB, Oracle, SQL Server, Cassandra
+
+**Tools & Technologies**
+- Git, Linux, AWS, HTML/CSS
+
+## Current Focus
+
+- 🔬 Deep diving into advanced machine learning techniques
+- 📊 Building end-to-end data science projects
+- 🚀 Exploring MLOps and model deployment strategies
+- 📚 Continuous learning in AI/ML domain
+
+## GitHub Statistics
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Python+Developer;Data+Scientist;Machine+Learning+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
-</div>
 
-<div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="400" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meet-vasita&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117)
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=meet-vasita&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="meet-vasita" /> 
-  <img src="https://img.shields.io/github/followers/meet-vasita?label=Followers&style=for-the-badge&color=blue" alt="followers" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meet-vasita&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
 
-## 🚀 About Me
-
-```python
-class DataScientist:
-    def __init__(self):
-        self.name = "Meet Vasita"
-        self.role = "Python Developer & Data Scientist"
-        self.language_spoken = ["Python", "SQL", "JavaScript"]
-        self.current_focus = "Machine Learning"
-        self.hobbies = ["Coding", "Data Analysis", "Learning New Tech"]
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's connect and build something amazing together!")
-
-me = DataScientist()
-me.say_hi()
-```
-
-## 🌱 Current Journey
-
-- 🔭 I'm currently diving deep into **Machine Learning**
-- 💬 Ask me about **Python, Data Science, and ML algorithms**
-- 📫 Reach out to me: **meetvasita85@gmail.com**
-
-## 🛠️ Languages and Tools
-
-<div align="center">
-  
-### Programming Languages
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,html,css&theme=dark" />
-
-### Databases & Tools
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,git,linux,aws&theme=dark" />
-
-### Data Science Stack
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meet-vasita&theme=github-dark-blue&hide_border=true&background=0d1117)
 
 </div>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=meet-vasita&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meet-vasita&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meet-vasita&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=meet-vasita&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
-</div>
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meet-vasita&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
-</div>
-
-## Contributions 
+## Activity Overview
 
 <div align="center">
 
@@ -96,20 +60,13 @@ me.say_hi()
 
 </div>
 
-## 🤝 Connect with Me
+## Connect
 
-<div align="center">
-  <a href="https://linkedin.com/in/meet-vasita-9260aa327" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/meet___vasita" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:meetvasita85@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</div>
+Feel free to reach out for collaborations, discussions about data science, or any interesting projects!
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div>
+**Email:** meetvasita85@gmail.com  
+**LinkedIn:** [meet-vasita-9260aa327](https://linkedin.com/in/meet-vasita-9260aa327)
+
+---
+
+*"Turning data into insights"*
