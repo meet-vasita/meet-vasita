@@ -18,22 +18,9 @@
 
 ## 🎯 About Me
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Meet Vasita"
-        self.role = "Python Developer & Data Scientist"
-        self.current_focus = ["Machine Learning", "Data Analytics", "MLOps"]
-        self.passion = "Building intelligent systems that solve real problems"
-    
-    def get_expertise(self):
-        return {
-            "languages": ["Python", "SQL", "JavaScript", "Java", "C++"],
-            "data_science": ["Pandas", "Scikit-learn", "NumPy", "Seaborn"],
-            "databases": ["MySQL", "PostgreSQL", "MongoDB", "Oracle"],
-            "tools": ["Git", "Linux", "AWS", "Docker"]
-        }
-```
+I'm a passionate Python developer and data scientist specializing in machine learning and deep learning. I focus on building intelligent systems and extracting meaningful insights from complex datasets to solve real-world problems.
+
+Currently advancing my expertise in machine learning and deep learning algorithms and their practical applications across various domains.
 
 ## 🛠️ Tech Stack
 
@@ -69,8 +56,6 @@ class Developer:
 ## 🚀 Current Focus
 
 - 🤖 **Machine Learning**: Deep diving into advanced ML algorithms and neural networks
-- 📊 **Data Engineering**: Building robust data pipelines and ETL processes  
-- 🔄 **MLOps**: Exploring model deployment, monitoring, and lifecycle management
 - 📈 **Analytics**: Creating insightful visualizations and statistical models
 
 ## 📊 GitHub Analytics
