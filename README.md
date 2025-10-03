@@ -10,8 +10,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meetvasita85@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/meet-vasita)
 
-![Profile Views](https://komarev.com/ghpvc/?username=meet-vasita&label=Profile%20Views&color=blueviolet&style=flat-square)
-
 </div>
 
 ---
